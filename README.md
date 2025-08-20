@@ -41,12 +41,21 @@ _Kit product page: Luke’s Lab Online — Jubilee/Generic Extra Tool Vitamins K
 
 
 Basic assembly instructions:
-Screw in stainless steel balls with 8mm M3 screws 
-Use a soldering iron to set the heat set inserts on into the holes for the motor as well as the tool wedge holes. Also set in the heat insert into limit switch trigger 
-Screw in tool wedge with M3 Screws flat head 8mm long
-Screw limit switch on the end of the captive motor 
-Screw in limit switch with 2-64 screws
-Place tip cone assembly plunger into limit switch 
-Assemble rest of the tip cone assembly and screw into tool body insuring spring stays in the section with the threading along with both O rings
-Screw in the motor and make sure the limit switch trigger fits into the slot along the side.
-Done
+
+-Screw in stainless steel balls with 8mm M3 screws 
+
+-Use a soldering iron to set the heat set inserts on into the holes for the motor as well as the tool wedge holes. Also set in the heat insert into limit switch trigger 
+
+-Screw in tool wedge with M3 Screws flat head 8mm long
+
+-Screw limit switch on the end of the captive motor 
+
+-Screw in limit switch with 2-64 screws
+
+-Place tip cone assembly plunger into limit switch 
+
+-Assemble rest of the tip cone assembly and screw into tool body insuring spring stays in the section with the threading along with both O rings
+
+-Screw in the motor and make sure the limit switch trigger fits into the slot along the side.
+
+-Done
