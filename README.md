@@ -4,16 +4,40 @@ Find here all the necessary resources to build a Pipetting tool for the Jubilee 
 
 All necessary components:
 
-1 x  each 3D printed part
-1 x  Captive Linear stepper motor (https://www.haydonkerkpittman.com/products/linear-actuators/can-stack-stepper/25mm-25000) 
-1 x E1 ClipTip, Tip Cone Assembly, Plastic Tip Fitting, Single Channel, 125μL (Thermo Scientific)
-2 x M3 button head screw 8mm long
-6 x M3 Flathead Screw, 8mm long
-3 x M3, 8mm Threaded Stainless steel balls
-6 x M3 "Ultrasert II" Tapered Heat Set Insert
-1 x Jubilee Tool Wedge Plate
-2 x 2-64 x 0.4375 flathead screw
-1 x SS-5GL limit switch
+# Parts — not included in Jubilee "vitamin kit"
+
+| Quantity | Part / Type                                                          | Notes / Link |
+|----------|-----------------------------------------------------------------------|--------------|
+| 1x       | Each 3D printed part                                                  | (printed on-demand / repo) |
+| 1x       | Captive linear stepper motor (25 mm can-stack captive stepper)        | [Haydon Kerk Pittman product page](https://www.haydonkerkpittman.com/products/linear-actuators/can-stack-stepper/25mm-25000) |
+| 1x       | E1 ClipTip — Tip Cone Assembly, Plastic Tip Fitting, single channel, 125 µL | [PipetteSupplies product](https://www.pipettesupplies.com/product/e1-clip-tip-tip-cone-assembly-plastic-tip-fitting-single-channel-125μl-thermo-scientific/) |
+| 2x       | M3 button-head screw, **8 mm** long                                   | (not provided in vitamin kit) |
+| 2x       | 2-64 × 0.4375" flathead screw                                         | (thread & length per original list) |
+| 1x       | SS-5GL limit switch (Omron SS-5GL snap/limit switch)                   | Example supplier pages: [DigiKey / Omron SS-5GL](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/SS-5GL/272367) · [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/SS-5GL). :contentReference[oaicite:1]{index=1} |
+
+
+# Jubilee / Generic Extra Tool — "Vitamin kit" (contents)
+
+_Kit product page: Luke’s Lab Online — Jubilee/Generic Extra Tool Vitamins Kit._ :contentReference[oaicite:2]{index=2}
+
+| Qty | Item description (as listed on Luke's Lab)         |
+|-----:|---------------------------------------------------|
+| 2   | M5×60 dowel rod                                   |
+| 6   | M3×6 button-head screw                            |
+| 4   | M3×10 button-head screw                           |
+| 2   | M3×12 button-head screw                           |
+| 3   | M3×40 button-head screw                           |
+| 6   | M3×8 flathead screw                               |
+| 11  | M3×6 flathead screw                               |
+| 6   | M5×10 button-head screw                           |
+| 9   | M3 heat tapered inserts (heat-set inserts)        |
+| 6   | M5 hammer nut                                     |
+| 1   | Wiper                                             |
+| 3   | M3 threaded 8 mm balls (tool balls)               |
+| 2   | O-rings (pair)                                    |
+| 1   | Wedge plate                                       |
+
+
 
 
 Basic assembly instructions:
