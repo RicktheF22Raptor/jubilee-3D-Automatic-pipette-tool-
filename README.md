@@ -13,12 +13,12 @@ All necessary components:
 | 1x       | E1 ClipTip — Tip Cone Assembly, Plastic Tip Fitting, single channel, 125 µL | [PipetteSupplies product](https://www.pipettesupplies.com/product/e1-clip-tip-tip-cone-assembly-plastic-tip-fitting-single-channel-125μl-thermo-scientific/) |
 | 2x       | M3 button-head screw, **8 mm** long                                   | (not provided in vitamin kit) |
 | 2x       | 2-64 × 0.4375" flathead screw                                         | (thread & length per original list) |
-| 1x       | SS-5GL limit switch (Omron SS-5GL snap/limit switch)                   | Example supplier pages: [DigiKey / Omron SS-5GL](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/SS-5GL/272367) · [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/SS-5GL). :contentReference[oaicite:1]{index=1} |
+| 1x       | SS-5GL limit switch (Omron SS-5GL snap/limit switch)                  |(https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/SS-5GL/272367) · 
 
 
 # Jubilee / Generic Extra Tool — "Vitamin kit" (contents)
 
-_Kit product page: Luke’s Lab Online — Jubilee/Generic Extra Tool Vitamins Kit._ :contentReference[oaicite:2]{index=2}
+_Kit product page: Luke’s Lab Online — Jubilee/Generic Extra Tool Vitamins Kit.
 
 | Qty | Item description (as listed on Luke's Lab)         |
 |-----:|---------------------------------------------------|
