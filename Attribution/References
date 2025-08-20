@@ -1,0 +1,13 @@
+This tool is based primaraly on the work described in the article "How to convert a 3D printer to a personal automated liquid handler for life science workflows" in this paper 
+they describe the modifications needed in order to convert an Ender 3 3D printer into a platform for automating liquid handling for the purposes of autmating expiermentation 
+as well as more generally democratizing self running lab technology.The purpose behind the tool I designed is to further expand access to the same liquid handeling capablity on a more
+robust platfrom like the Jubilee 3D, this is is meant to act as an inexpensive alternative to other liquid handeling tools currently available publically on the Jubilee, without 
+requiring new users to modify the tool themselves, the Jubilee spefically is a far more robust movement platform whose prepratary software is purpose built for utilizing a varity of 
+tools which makes the proccess of adding the liquid handeling tool much smoother compared to what can be the fickel proccess of modify the ender.
+
+
+References:
+
+-Naranbat, D., Phelps, B., Murphy, J., & Tripathi, A. (2025). How to convert a 3D printer to a personal automated liquid handler for life science workflows. SLAS Technology, 30, 100239. https://doi.org/10.1016/j.slast.2024.100239 
+
+-🔬🧪 science jubilee ⚡⚙️#. 🔬🧪 Science Jubilee ⚡⚙️ - Science Jubilee 0.3.2.post1.dev200+gdd7e0ef documentation. (n.d.). https://science-jubilee.readthedocs.io/en/latest/index.html 
