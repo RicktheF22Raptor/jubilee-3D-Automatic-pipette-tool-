@@ -1,3 +1,16 @@
+This tool is based primaraly on the work described in the article "How to convert a 3D printer to a personal automated liquid handler for life science workflows" in this paper 
+they describe the modifications needed in order to convert an Ender 3 3D printer into a platform for automating liquid handling for the purposes of autmating expiermentation 
+as well as more generally democratizing self running lab technology.The purpose behind the tool I designed is to further expand access to the same liquid handeling capablity on a morerobust platfrom like the Jubilee 3D, this is is meant to act as an inexpensive alternative to other liquid handeling tools currently available publically on the Jubilee, without requiring new users to modify the tool themselves, the Jubilee spefically is a far more robust movement platform whose prepratary software is purpose built for utilizing a varity of tools which makes the proccess of adding the liquid handeling tool much smoother compared to what can be the fickel proccess of modify the ender.
+
+
+References:
+
+-Naranbat, D., Phelps, B., Murphy, J., & Tripathi, A. (2025). How to convert a 3D printer to a personal automated liquid handler for life science workflows. SLAS Technology, 30, 100239. https://doi.org/10.1016/j.slast.2024.100239 
+
+-🔬🧪 science jubilee ⚡⚙️#. 🔬🧪 Science Jubilee ⚡⚙️ - Science Jubilee 0.3.2.post1.dev200+gdd7e0ef documentation. (n.d.). https://science-jubilee.readthedocs.io/en/latest/index.html 
+
+
+
 # jubilee-3D-Automatic-pipette-tool-
 Find here all the necessary resources to build a Pipetting tool for the Jubilee 3D
 
@@ -14,6 +27,7 @@ All necessary components:
 | 2x       | M3 button-head screw, **8 mm** long                                   | (not provided in vitamin kit) |
 | 2x       | 2-64 × 0.4375" flathead screw                                         | (thread & length per original list) |
 | 1x       | SS-5GL limit switch (Omron SS-5GL snap/limit switch)                  |(https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/SS-5GL/272367) · 
+| 1x       | Jubilee / Generic Extra Tool — "Vitamin kit"                          | (https://www.lukeslabonline.com/products/jubilee-generic-extra-tool-vitamin-kit?srsltid=AfmBOopn3gWTzfLxL6CEZkIZTFIs6pjnynb042KZSuh6t3ffAsHF3te0)
 
 
 # Jubilee / Generic Extra Tool — "Vitamin kit" (contents)
@@ -42,20 +56,20 @@ _Kit product page: Luke’s Lab Online — Jubilee/Generic Extra Tool Vitamins K
 
 Basic assembly instructions:
 
--Screw in stainless steel balls with 8mm M3 screws 
+1.Screw in stainless steel balls with 8mm M3 screws 
 
--Use a soldering iron to set the heat set inserts on into the holes for the motor as well as the tool wedge holes. Also set in the heat insert into limit switch trigger 
+2.Use a soldering iron to set the heat set inserts on into the holes for the motor as well as the tool wedge holes. Also set in the heat insert into limit switch trigger 
 
--Screw in tool wedge with M3 Screws flat head 8mm long
+3.Screw in tool wedge with M3 Screws flat head 8mm long
 
--Screw limit switch on the end of the captive motor 
+4.Screw limit switch on the end of the captive motor 
 
--Screw in limit switch with 2-64 screws
+5.Screw in limit switch with 2-64 screws
 
--Place tip cone assembly plunger into limit switch 
+6.Place tip cone assembly plunger into limit switch 
 
--Assemble rest of the tip cone assembly and screw into tool body insuring spring stays in the section with the threading along with both O rings
+7.Assemble rest of the tip cone assembly and screw into tool body insuring spring stays in the section with the threading along with both O rings
 
--Screw in the motor and make sure the limit switch trigger fits into the slot along the side.
+8.Screw in the motor and make sure the limit switch trigger fits into the slot along the side.
 
--Done
+9.-Done
