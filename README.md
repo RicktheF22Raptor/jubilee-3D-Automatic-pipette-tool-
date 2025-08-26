@@ -73,3 +73,24 @@ Basic assembly instructions:
 8.Screw in the motor and make sure the limit switch trigger fits into the slot along the side.
 
 9.-Done
+
+# wiring set up 
+
+1.Each wire is extended approxiamtely 150mm in order to ensure it can comforably operate around the Jubilee 
+
+2.At the end of the wires we will crimp on a Female JST XH 6 pin connecter in this order with the connecter side you are onable to see the crimps through facing away from you 
+
+a. Red to the farthest right port
+
+b. Black to the middle closet to red(skip one port) 
+
+c. Green to the farthest left port
+
+d. Blue to the middle directly next to Black
+
+<img width="593" height="84" alt="image" src="https://github.com/user-attachments/assets/d3635c27-ad4e-4fd0-ba67-cd8e37edd5bf" />
+
+
+
+
+
