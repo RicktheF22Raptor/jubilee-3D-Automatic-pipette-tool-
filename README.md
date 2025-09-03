@@ -54,7 +54,7 @@ _Kit product page: Luke’s Lab Online — Jubilee/Generic Extra Tool Vitamins K
 
 
 
-Basic assembly instructions:
+# Basic assembly instructions:
 
 1.Screw in stainless steel balls with 8mm M3 screws 
 
@@ -89,6 +89,41 @@ c. Green to the farthest left port
 d. Blue to the middle directly next to Black
 
 <img width="593" height="84" alt="image" src="https://github.com/user-attachments/assets/d3635c27-ad4e-4fd0-ba67-cd8e37edd5bf" />
+
+# Automatic Tip ejection:
+
+For any expirment that requires replacing the tips mid operation, we have designed an attachement to the lab automation plate to automaticly
+eject tips, the deisgn is based on the same principle as the Naranbat design, and the tip is meant to go inside the basket before jogging over to the head and having 
+the head pull down on the spring loaded cone assembly thereby ejecting the tip.
+
+File Name(s): Tip ejction basket and Tip Ejctor Head
+
+Instructions: Assume you are facing the Jubilee with the Y railing point parrallel to where you'r eyes are pointing, and the tool holder facing to your left. 
+
+1.Print both pieces and attach the head to the body using 2 6-32 8mm* long countersink screws 
+
+2.dettach the bed plate L bracket closest to the left corner
+
+3.Using the same M3 screws as the L bracket, screw in the Basket assembly until firmly in place(a little wobble is ok as long as the face the screws go into is flat against the plate) 
+
+4. Create a Macro on the Jubilee and copy this g code script(positions are not exact and you should adjust these to your liking or necessity)
+     G90 ;set absolute positioning
+
+     G1 Z185 ;move bed to allow pippette tip to clear all objects on lab plate
+
+     G1 X207 ;moves the pipette within the area of the basket but clear of the ejctor head
+     G1 Y280
+
+     G1 Z80 ;moves the bed up so the Ejector head is at the same height as the cone assembly neck
+
+     G1 X287 ;places the ejector head around the neck of the Cone assembly 
+
+     G1 Z90 ; moves ejctor up and then down to eject the tip
+     G1 Z80
+
+     G1 X207 ; moves the Pipette away from the ejector neck
+   
+
 
 
 
