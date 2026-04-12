@@ -1,6 +1,7 @@
-This tool is based primaraly on the work described in the article "How to convert a 3D printer to a personal automated liquid handler for life science workflows" in this paper 
-they describe the modifications needed in order to convert an Ender 3 3D printer into a platform for automating liquid handling for the purposes of autmating expiermentation 
-as well as more generally democratizing self running lab technology.The purpose behind the tool I designed is to further expand access to the same liquid handeling capablity on a morerobust platfrom like the Jubilee 3D, this is is meant to act as an inexpensive alternative to other liquid handeling tools currently available publically on the Jubilee, without requiring new users to modify the tool themselves, the Jubilee spefically is a far more robust movement platform whose prepratary software is purpose built for utilizing a varity of tools which makes the proccess of adding the liquid handeling tool much smoother compared to what can be the fickel proccess of modify the ender.
+This tool is based primarily on the work described in the article "How to convert a 3D printer to a personal automated liquid handler for life science workflows" in this paper 
+they describe the modifications needed in order to convert an Ender 3 3D printer into a platform for automating liquid handling for the purposes of automating experimentation 
+as well as more generally democratizing self running lab technology.The purpose behind the tool I designed is to further expand access to the same liquid handling capability on a more robust platform like the Jubilee 3D, this is is meant to act as an inexpensive alternative to other liquid handling tools currently available publically on the Jubilee, without requiring new users to modify the tool themselves, the Jubilee specifically is a far more robust movement platform whose preparatory software is purpose built for utilizing a variety of tools which makes the process of adding the liquid handling tool much smoother compared to what can be the fickle process of modify the ender.
+
 
 
 References:
