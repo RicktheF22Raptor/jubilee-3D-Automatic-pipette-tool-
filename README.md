@@ -74,6 +74,7 @@ _Kit product page: Luke’s Lab Online — Jubilee/Generic Extra Tool Vitamins K
 8.Screw in the motor and make sure the limit switch trigger fits into the slot along the side.
 
 9.-Done
+<img width="960" height="540" alt="Jubilee Pipette tool assembly instructions" src="https://github.com/user-attachments/assets/0617524e-d6d1-4586-8ea0-0f9b512a6178" />
 
 # wiring set up 
 
